@@ -106,3 +106,4 @@ Ideogram-API-Sandbox/
 
 - [Ideogram API](https://ideogram.ai/)チームに感謝します。
 - このプロジェクトのアイデアや改善に貢献してくださったコミュニティの皆様に感謝します。
+- [Ideogram API リファレンス](https://api-docs.ideogram.ai/reference/)
