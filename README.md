@@ -38,6 +38,12 @@
 
 Ideogram-API-Sandboxは、Ideogram APIを活用してAI画像生成の可能性を探索するための実験的なプロジェクトです。このリポジトリには、最新のV_2_TURBOモデルを含むIdeogram APIを簡単に試せるPythonスクリプトが用意されています。
 
+
+## デモ動画
+
+https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
+
+
 ## 🚀 はじめに
 
 ### 前提条件
