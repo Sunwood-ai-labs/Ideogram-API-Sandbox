@@ -16,13 +16,15 @@
 [![GitHub Tag](https://img.shields.io/github/v/tag/Sunwood-ai-labs/Ideogram-API-Sandbox?sort=semver&color=orange)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/tags)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/Ideogram-API-Sandbox/publish-to-pypi.yml)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/actions)
 
-[🌐 Website](https://hamaruki.com/) •
-[🐱 GitHub](https://github.com/Sunwood-ai-labs) •
-[🐦 Twitter](https://x.com/hAru_mAki_ch) •
-[🍀 Official Blog](https://hamaruki.com/)
+[![Ideogram-API-Sandbox](https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Ideogram-API-Sandbox.png)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
 
->[!IMPORTANT]
->This repository's release notes, README, and commit messages are almost entirely generated using [claude.ai](https://claude.ai/) and [ChatGPT4](https://chatgpt.com/) through [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
+[🌐 Website](https://hamaruki.com/) • [🐱 GitHub](https://github.com/Sunwood-ai-labs) • [🐦 Twitter](https://x.com/hAru_mAki_ch) • [🍀 Official Blog](https://hamaruki.com/)
+
+***
+
+**[IMPORTANT]**
+
+Nearly 90% of the release notes, README, and commit messages in this repository are generated using [claude.ai](https://claude.ai/), [ChatGPT4](https://chatgpt.com/), and AI tools like [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
 
 ## Overview
 
@@ -30,14 +32,14 @@ Ideogram-API-Sandbox is an experimental project designed to explore the possibil
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
+[https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b](https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b)
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Python 3.7 or later
-- An Ideogram API key
+- Python 3.7 or higher
+- Ideogram API key
 
 ### Installation
 
@@ -46,7 +48,7 @@ https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
    git clone https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox.git
    ```
 
-2. Install the necessary libraries:
+2. Install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
@@ -82,17 +84,20 @@ Ideogram-API-Sandbox/
 
 ## 📝 Updates
 
-For the latest updates, please refer to the [Release Notes](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases).
+For the latest updates, please check the [release notes](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases).
 
 ## 🤝 Contributions
 
-Contributions to the project are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Contributions to the project are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgements
+## 🙏 Acknowledgments
 
-- Thanks to the [Ideogram API](https://ideogram.ai/) team.
-- Thanks to the community for their ideas and contributions to improving this project.
+- The [Ideogram API](https://ideogram.ai/) team
+- The community members who contributed ideas and improvements to this project
+- The [Ideogram API reference](https://api-docs.ideogram.ai/reference/)
+
+***
