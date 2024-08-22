@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: pypi
-      url: https://pypi.org/p/Ideogram-API-Sandbox
+      url: https://pypi.org/p/aws-terraform-sandbox
     permissions:
       id-token: write
     steps:

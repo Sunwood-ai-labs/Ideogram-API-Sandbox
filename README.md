@@ -34,21 +34,77 @@
 >[!IMPORTANT]
 >このリポジトリのリリースノートやREADME、コミットメッセージの9割近くは[claude.ai](https://claude.ai/)や[ChatGPT4](https://chatgpt.com/)を活用した[AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II)で生成しています。
 
-## 🌟 Ideogram-API-Sandbox へようこそ！
+## 概要
 
-### 概要
+Ideogram-API-Sandboxは、Ideogram APIを活用してAI画像生成の可能性を探索するための実験的なプロジェクトです。このリポジトリには、最新のV_2_TURBOモデルを含むIdeogram APIを簡単に試せるPythonスクリプトが用意されています。
 
-Ideogram-API-Sandboxは、Ideogram APIの力を借りて、AIによる画像生成の可能性を探索するための実験的なプロジェクトです。このリポジトリには、最新のV_2_TURBOモデルを含むIdeogram APIを簡単に試せるPythonスクリプトが用意されています。
 
-## 🎥 デモ
+## デモ動画
+
+https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
+
 
 ## 🚀 はじめに
 
+### 前提条件
+
+- Python 3.7以上
+- Ideogram APIキー
+
+### インストール
+
+1. このリポジトリをクローンします：
+   ```bash
+   git clone https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox.git
+   ```
+
+2. 必要なライブラリをインストールします：
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. `.env.example` ファイルを `.env` にリネームし、Ideogram APIキーを設定します：
+   ```bash
+   IDEOGRAM_API_KEY=your_api_key_here
+   ```
+
+### 使用方法
+
+1. `sandbox` ディレクトリに移動します。
+
+2. サンプルスクリプトを実行します：
+   ```bash
+   python ideogram_api_example.py
+   ```
+   または
+   ```bash
+   python ideogram_v2turbo_sample.py
+   ```
+
+## 📁 プロジェクト構造
+
+```bash
+Ideogram-API-Sandbox/
+├─ sandbox/
+│  ├─ ideogram_api_example.py
+│  ├─ ideogram_v2turbo_sample.py
+├─ .env.example
+├─ README.md
+```
+
 ## 📝 更新情報
+
+最新の更新情報については、[リリースノート](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases)をご覧ください。
 
 ## 🤝 コントリビューション
 
+プロジェクトへの貢献を歓迎します！詳細は[CONTRIBUTING.md](CONTRIBUTING.md)をご覧ください。
+
 ## 📄 ライセンス
 
-## 🙏 謝辞 
+このプロジェクトは[MITライセンス](LICENSE)の下で公開されています。
 
+## 🙏 謝辞
+
+- [Ideogram API](https://ideogram.ai/)チームに感謝します。
+- このプロジェクトのアイデアや改善に貢献してくださったコミュニティの皆様に感謝します。
