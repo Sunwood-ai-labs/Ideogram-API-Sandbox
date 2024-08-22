@@ -16,30 +16,28 @@
 [![GitHub Tag](https://img.shields.io/github/v/tag/Sunwood-ai-labs/Ideogram-API-Sandbox?sort=semver&color=orange)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/tags)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/Ideogram-API-Sandbox/publish-to-pypi.yml)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/actions)
 
-<p align="center">
-  <a href="https://hamaruki.com/"><b>[🌐 Website]</b></a> •
-  <a href="https://github.com/Sunwood-ai-labs"><b>[🐱 GitHub]</b></a>
-  <a href="https://x.com/hAru_mAki_ch"><b>[🐦 Twitter]</b></a> •
-  <a href="https://hamaruki.com/"><b>[🍀 Official Blog]</b></a>
-</p>
+[🌐 Website](https://hamaruki.com/) •
+[🐱 GitHub](https://github.com/Sunwood-ai-labs) •
+[🐦 Twitter](https://x.com/hAru_mAki_ch) •
+[🍀 Official Blog](https://hamaruki.com/)
 
 >[!IMPORTANT]
->Nearly 90% of the release notes, README, and commit messages in this repository are generated using [claude.ai](https://claude.ai/) and [ChatGPT4](https://chatgpt.com/) with [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
+>This repository's release notes, README, and commit messages are almost entirely generated using [claude.ai](https://claude.ai/) and [ChatGPT4](https://chatgpt.com/) through [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
 
 ## Overview
 
-Ideogram-API-Sandbox is an experimental project designed to explore the possibilities of AI image generation using the Ideogram API. This repository provides Python scripts for easily trying out the Ideogram API, including the latest V_2_TURBO model.
+Ideogram-API-Sandbox is an experimental project designed to explore the possibilities of AI image generation using the Ideogram API. This repository provides Python scripts for easily testing the Ideogram API, including the latest V_2_TURBO model.
 
 ## Demo Video
 
-[https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b](https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b)
+https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Python 3.7 or later
-- Ideogram API Key
+- An Ideogram API key
 
 ### Installation
 
@@ -82,19 +80,19 @@ Ideogram-API-Sandbox/
 ├─ README.md
 ```
 
-## 📝 Update Information
+## 📝 Updates
 
-For the latest updates, please refer to the [release notes](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases).
+For the latest updates, please refer to the [Release Notes](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases).
 
-## 🤝 Contribution
+## 🤝 Contributions
 
-Contributions to the project are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Contributions to the project are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
-- Thank you to the [Ideogram API](https://ideogram.ai/) team.
-- Thanks to the community for their ideas and contributions to the improvement of this project.
+- Thanks to the [Ideogram API](https://ideogram.ai/) team.
+- Thanks to the community for their ideas and contributions to improving this project.
