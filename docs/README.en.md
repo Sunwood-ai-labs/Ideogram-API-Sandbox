@@ -1,45 +1,55 @@
 ## Ideogram-API-Sandbox
 
-**～ Your playground for Ideogram API exploration! ～**
+<p align="center">
+<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Ideogram-API-Sandbox.png" width="100%">
+<br>
+<h1 align="center">Ideogram-API-Sandbox</h1>
+<h2 align="center">
+  ～ Your playground for Ideogram API exploration! ～
+<br>
+  <img alt="PyPI - Version" src="https://img.shields.io/pypi/v/Ideogram-API-Sandbox">
+<img alt="PyPI - Format" src="https://img.shields.io/pypi/format/Ideogram-API-Sandbox">
+<img alt="PyPI - Implementation" src="https://img.shields.io/pypi/implementation/Ideogram-API-Sandbox">
+<img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Ideogram-API-Sandbox">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dd/Ideogram-API-Sandbox">
+<img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dw/Ideogram-API-Sandbox">
+<a href="https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=Ideogram-API-Sandbox&message=Sunwood-ai-labs&color=blue&logo=github"></a>
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sunwood-ai-labs/Ideogram-API-Sandbox">
+<a href="https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox"><img alt="forks - Sunwood-ai-labs" src="https://img.shields.io/github/forks/Ideogram-API-Sandbox/Sunwood-ai-labs?style=social"></a>
+<a href="https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox"><img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Sunwood-ai-labs/Ideogram-API-Sandbox"></a>
+<a href="https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Sunwood-ai-labs/Ideogram-API-Sandbox"></a>
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/Sunwood-ai-labs/Ideogram-API-Sandbox?color=red">
+<img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/Sunwood-ai-labs/Ideogram-API-Sandbox?sort=semver&color=orange">
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/Ideogram-API-Sandbox/publish-to-pypi.yml">
+<br>
+<p align="center">
+  <a href="https://hamaruki.com/"><b>[🌐 Website]</b></a> •
+  <a href="https://github.com/Sunwood-ai-labs"><b>[🐱 GitHub]</b></a>
+  <a href="https://x.com/hAru_mAki_ch"><b>[🐦 Twitter]</b></a> •
+  <a href="https://hamaruki.com/"><b>[🍀 Official Blog]</b></a>
+</p>
 
-[![PyPI - Version](https://img.shields.io/pypi/v/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![PyPI - Format](https://img.shields.io/pypi/format/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![PyPI - Implementation](https://img.shields.io/pypi/implementation/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![PyPI - Status](https://img.shields.io/pypi/status/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dd/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dw/Ideogram-API-Sandbox)](https://pypi.org/project/Ideogram-API-Sandbox/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/Sunwood-ai-labs/Ideogram-API-Sandbox)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
-[![GitHub forks](https://img.shields.io/github/forks/Sunwood-ai-labs/Ideogram-API-Sandbox?style=social)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/Sunwood-ai-labs/Ideogram-API-Sandbox)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
-[![GitHub Top Language](https://img.shields.io/github/languages/top/Sunwood-ai-labs/Ideogram-API-Sandbox)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
-[![GitHub Release](https://img.shields.io/github/v/release/Sunwood-ai-labs/Ideogram-API-Sandbox?color=red)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases)
-[![GitHub Tag](https://img.shields.io/github/v/tag/Sunwood-ai-labs/Ideogram-API-Sandbox?sort=semver&color=orange)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/tags)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Sunwood-ai-labs/Ideogram-API-Sandbox/publish-to-pypi.yml)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/actions)
+</h2>
 
-[![Ideogram-API-Sandbox](https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/Ideogram-API-Sandbox.png)](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox)
+</p>
 
-[🌐 Website](https://hamaruki.com/) • [🐱 GitHub](https://github.com/Sunwood-ai-labs) • [🐦 Twitter](https://x.com/hAru_mAki_ch) • [🍀 Official Blog](https://hamaruki.com/)
-
-***
-
-**[IMPORTANT]**
-
-Nearly 90% of the release notes, README, and commit messages in this repository are generated using [claude.ai](https://claude.ai/), [ChatGPT4](https://chatgpt.com/), and AI tools like [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
+>[!IMPORTANT]
+>Almost all of the release notes, READMEs, and commit messages in this repository are generated using [claude.ai](https://claude.ai/) and [ChatGPT4](https://chatgpt.com/) with [AIRA](https://github.com/Sunwood-ai-labs/AIRA), [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage), [Gaiah](https://github.com/Sunwood-ai-labs/Gaiah), and [HarmonAI_II](https://github.com/Sunwood-ai-labs/HarmonAI_II).
 
 ## Overview
 
-Ideogram-API-Sandbox is an experimental project designed to explore the possibilities of AI image generation using the Ideogram API. This repository provides Python scripts for easily testing the Ideogram API, including the latest V_2_TURBO model.
+Ideogram-API-Sandbox is an experimental project designed to explore the possibilities of AI image generation using the Ideogram API. This repository provides Python scripts that allow you to easily test the Ideogram API, including the latest V_2_TURBO model.
 
 ## Demo Video
 
-[https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b](https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b)
+https://github.com/user-attachments/assets/74daff47-9f38-42ff-81fa-80d64acb170b
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Python 3.7 or higher
-- Ideogram API key
+- Python 3.7 or later
+- An Ideogram API key
 
 ### Installation
 
@@ -82,22 +92,28 @@ Ideogram-API-Sandbox/
 ├─ README.md
 ```
 
-## 📝 Updates
+## 📝 Update History
 
-For the latest updates, please check the [release notes](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases).
+- 🎉 Added advanced image generation capabilities using the Ideogram API v2 Turbo model. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🎉 Added image generation functionality using the Ideogram API. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🎉 Added Ideogram API key configuration. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 Improved README structure for better readability. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 Added a link to the Ideogram API reference in the README. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 Added a link to the demo video in the README. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 Improved README structure and added more details. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 Updated the English README. ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
 
 ## 🤝 Contributions
 
-Contributions to the project are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Contributions to the project are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgements
 
-- The [Ideogram API](https://ideogram.ai/) team
-- The community members who contributed ideas and improvements to this project
-- The [Ideogram API reference](https://api-docs.ideogram.ai/reference/)
-
-***
+- The [Ideogram API](https://ideogram.ai/) team.
+- The community for contributing ideas and improvements to this project.
+- [Ideogram API Reference](https://api-docs.ideogram.ai/reference/)
+```
