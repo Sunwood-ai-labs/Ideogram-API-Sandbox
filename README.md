@@ -92,7 +92,14 @@ Ideogram-API-Sandbox/
 
 ## 📝 更新情報
 
-最新の更新情報については、[リリースノート](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases)をご覧ください。
+- 🎉 Ideogram API v2 Turboモデルを用いた高度な画像生成機能を追加しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🎉 Ideogram APIを用いた画像生成機能を追加しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🎉 Ideogram APIキー設定を追加しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 READMEの構造を見直し、読みやすく改善しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 READMEにIdeogram APIリファレンスへのリンクを追加しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 READMEにデモ動画へのリンクを追加しました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 READMEの構造化と詳細情報の追加を行いました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
+- 🚀 英語READMEの更新を行いました。 ([![v0.1.0](https://github.com/Sunwood-ai-labs/Ideogram-API-Sandbox/releases/tag/v0.1.0)]) 🟢
 
 ## 🤝 コントリビューション
 
